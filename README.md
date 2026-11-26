@@ -1,17 +1,16 @@
 # Linear Combination and Span
 
-An interactive 5:25 animation for the M3 Animation Video Project. Open `index.html` in a modern browser and press **Play**. Playback controls allow pausing, changing scenes, restarting, and optionally reading captions aloud with browser speech synthesis.
+M3 Animation Video Project on linear combinations and span.
 
 ## Project files
 
-- `index.html` - interactive animation source
-- `Storyboard.pdf` - six-scene storyboard based on the animation
+- `Video.mp4` - final animation video (5:24, H.264 video, AAC audio)
+- `Code/Linear Combination and Span.html` - interactive animation source code
+- `Storyboard.pdf` - six-scene storyboard
 
-## Required video
+## Video checklist
 
-The assignment requires a final rendered MP4 with clear voice-over. The supplied HTML is interactive source code, not a rendered MP4, and browser text-to-speech is not a recorded voice-over. The MP4 and recorded narration were not included in the supplied files.
-
-The assignment specifies 16:9 landscape, 1080p preferred, 5 minutes recommended, and a strict 7-minute maximum. The video opening frame should show the concept, student name, and ID. The closing frame should recap three takeaways and include references, music attribution if used, and an accurate AI-use disclosure.
+The supplied video is under the 7-minute maximum and has 1080 pixels of vertical resolution. Its encoded frame size is 1916×1080. The assignment asks for 16:9 landscape (1080p preferred), so re-export at 1920×1080 if exact 16:9 is required. The supplied opening frame does not show the student name or ID, and the closing frame does not show references, any music credit, or the AI-use disclosure. Complete those items before submitting the repository link.
 
 ## AI use disclosure
 
