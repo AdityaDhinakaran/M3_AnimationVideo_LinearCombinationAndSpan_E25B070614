@@ -1,17 +1,27 @@
 # Linear Combination and Span
 
-M3 Animation Video Project on linear combinations and span.
+M3 Animation Video Project by Aditya Dhinakaran (E25B070614).
 
 ## Project files
 
-- `Video.mp4` - final animation video (5:24, H.264 video, AAC audio)
-- `Code/Linear Combination and Span.html` - interactive animation source code
-- `Storyboard.pdf` - six-scene storyboard
+- `Video.mp4` — final video with a title card, the supplied animation and narration, and a closing card with takeaways and credits.
+- `Storyboard.pdf` — six-scene storyboard.
+- `Code/Linear Combination and Span.html` — interactive animation source.
 
-## Video checklist
+## Video details
 
-The supplied video is under the 7-minute maximum and has 1080 pixels of vertical resolution. Its encoded frame size is 1916×1080. The assignment asks for 16:9 landscape (1080p preferred), so re-export at 1920×1080 if exact 16:9 is required. The supplied opening frame does not show the student name or ID, and the closing frame does not show references, any music credit, or the AI-use disclosure. Complete those items before submitting the repository link.
+- Duration: 5 minutes 40 seconds
+- Frame: 1920×1080, 16:9 landscape
+- Format: MP4 (H.264 video, AAC audio)
+- The opening card identifies the presenter and student ID. The closing card lists three takeaways, a reference, and the AI disclosure.
+- Audio from the supplied MP4 is retained; no music was added during this edit.
 
-## AI use disclosure
+## Reference
 
-AI assistance was used to prepare this README and the storyboard PDF from the supplied HTML. This disclosure covers repository packaging; include any other AI tools used for scripting, visuals, narration, or code.
+MIT OpenCourseWare, 18.06SC Linear Algebra, “Independence, Basis, and Dimension”: <https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/independence-basis-and-dimension/>
+
+## AI disclosure
+
+AI assistance was used to prepare the storyboard and repository documentation. The video’s supplied animation and soundtrack were retained.
+
+If the supplied soundtrack contains third-party music, add its track title and artist to the closing credits before submission.
